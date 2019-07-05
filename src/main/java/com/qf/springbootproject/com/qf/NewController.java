@@ -23,5 +23,8 @@ public class NewController {
         return "!!!!!!";
 
     }
+     public String aqwige22(){
+            return "!!!!!!";
 
+        }
 }
