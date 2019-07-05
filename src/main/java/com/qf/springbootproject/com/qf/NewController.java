@@ -14,4 +14,10 @@ public class NewController {
         return "!!!!!!";
 
     }
+    public String controller1(){
+        return "!!!!!!";
+
+    }
+
+
 }
