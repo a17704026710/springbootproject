@@ -19,7 +19,7 @@ public class NewController {
 
     }
 
-     public String controller2(){
+     public String controller5(){
         return "!!!!!!";
 
     }
