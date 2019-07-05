@@ -18,6 +18,10 @@ public class NewController {
         return "!!!!!!";
 
     }
+    public String controller3(){
+        return "!!!!!!";
+
+    }
 
 
 }
