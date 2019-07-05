@@ -19,7 +19,7 @@ public class NewController {
 
     }
 
-     public String youyige(){
+     public String aqwige(){
         return "!!!!!!";
 
     }
